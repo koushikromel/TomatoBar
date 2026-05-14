@@ -24,12 +24,12 @@ TomatoBar is fully sandboxed with no entitlements.
 
 Download the latest release <a href="https://github.com/ivoronin/TomatoBar/releases/latest/">here</a> or install using Homebrew:
 ```
-$ brew install --cask tomatobar
+brew install --cask tomatobar
 ```
 
 If the app doesn't start, install using the `--no-quarantine` flag:
 ```
-$ brew install --cask --no-quarantine tomatobar
+brew install --cask --no-quarantine tomatobar
 ```
 
 ## Integration with other tools
